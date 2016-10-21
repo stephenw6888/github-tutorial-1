@@ -1,6 +1,6 @@
 # GitHub Tutorial
 
-_by <Rene Campos>_
+by Rene Campos
 
 ---
 ## Git vs. GitHub
