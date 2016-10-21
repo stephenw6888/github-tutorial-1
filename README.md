@@ -1,10 +1,10 @@
 # GitHub Tutorial
 
-_by <your-name-here>_
+_by <Rene Campos>_
 
 ---
 ## Git vs. GitHub
-
+Need to explain what Git and Github is
 
 
 ---
