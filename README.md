@@ -4,7 +4,8 @@ _by <Rene Campos>_
 
 ---
 ## Git vs. GitHub
-Need to explain what Git and Github is
+Git keeps Snapshots of your work while Github shows your changings
+
 
 
 ---
