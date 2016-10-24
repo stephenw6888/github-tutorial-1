@@ -11,6 +11,8 @@ by Rene Campos
 
 ---
 ## Initial Setup
+* Go to [github.com](github.com)
+
 
 
 
