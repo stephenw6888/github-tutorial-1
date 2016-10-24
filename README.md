@@ -18,6 +18,7 @@ by Rene Campos
 * Use a school or work email so you can verify your github account 
 * Make sure you verfied it or you won't be able to use it 
 ---
+
 ## Initial Setup
 
 
