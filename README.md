@@ -17,8 +17,8 @@ by Rene Campos
 * Make your password private because you would'nt want anyone to mess with your work (it could happen!?)
 * Use a school or work email so you can verify your github account 
 * Make sure you verfied it or you won't be able to use it 
+---
 ## Initial Setup
-1.
 
 
 
