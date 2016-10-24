@@ -20,8 +20,13 @@ by Rene Campos
 
 ---
 ## How to get to your workspace
-
-
+1.You have to be signed to github
+2. First go to [c9.io](c9.io)
+3. On the top right corner their is a gear icon
+4. Click on the gear icon
+5. You will see a list click on connected services 
+6. Click on connect this will let github see your github repos
+7.Now once your connected to github when you go to c9.io
 
 
 
