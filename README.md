@@ -26,7 +26,7 @@ by Rene Campos
 4. Click on the gear icon
 5. You will see a list click on connected services 
 6. Click on connect this will let github see your github repos
-7.Now once your connected to github when you go to c9.io
+7.Now once your connected to github when you go to c9.io you can sign into you workspace by clicking on the octocat next to sigh in
 
 
 
