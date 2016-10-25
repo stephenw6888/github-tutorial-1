@@ -37,7 +37,9 @@ by Rene Campos
 5. Click on it
 6. Then Click on New SSH
 7. Go to [c9.io](c9.io)
-8. 
+8. On the top right you will see a gear icon click on it
+9. Go to the SSH key tab and copy and paste your SSH to github make sure it starts with ssh-rsa
+10. Finally add the SSH 
   
 
 ---
