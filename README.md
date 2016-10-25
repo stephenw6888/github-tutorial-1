@@ -39,12 +39,18 @@ by Rene Campos
 7. Go to [c9.io](c9.io)
 8. On the top right you will see a gear icon click on it
 9. Go to the SSH key tab and copy and paste your SSH to github make sure it starts with ssh-rsa
-10. Finally add the SSH 
+10. Finally add the SSH key
   
 
 ---
 ## Repository Setup
+* Open your workspace on cloud 9
+* Open a new terminal
+* Once your new terminal is open you have to follow these steps
 
+---
+## Repository Steps
+1. 
 
 ---
 ## Workflow & Commands
