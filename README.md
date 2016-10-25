@@ -30,10 +30,14 @@ by Rene Campos
 
 ---
 ## How to make a SSH key
-
-
-
----
+1. Go to [github.com](github.com)
+2. On the top right corner you will your profile icon click on it and you'll see the settings button
+3. Click on the settings button
+4. On the left side bar(Personal Settings) Go down the list and you will see SSH and GPG keys
+5. Click on it
+6. Then Click on New SSH
+7. Go to [c9.io(c9.io)
+8. 
 ## Repository Setup
 
 
