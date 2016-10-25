@@ -57,7 +57,7 @@ or
 7. Go to [c9.io](c9.io)
 8. On the top right you will see a gear icon click on it
 9. Go to the SSH key tab and copy and paste your SSH to github make sure it starts with ssh-rsa
-10. Finally add the SSH key
+10. Finally add the SSH key 
   
 
 ---
@@ -71,11 +71,11 @@ or
 1. Type cd ~/workspace(Enter after every step)
 2. Type mkdir first-repo(You can call your repo whatever you want but it would be good to write first-repo)
 3. Type cd first-repo
-4. Type git init
+4. Type git _init_
 5. Type touch README.md
 6. Open the README you just made
 7. Save it and add .
-8. Make a commit -m "Example" (Make sure to type a commit message that makes sense to what your doing)
+8. Make a _'git commit -m "Example"'' (Make sure to type a commit message that makes sense to what your doing)
 9. Go to github.com
 10. On the top right their is Plus sign click on it
 11. Click on New Repository
