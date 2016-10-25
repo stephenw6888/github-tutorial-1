@@ -61,7 +61,7 @@ by Rene Campos
 9. Go to github.com
 10. On the top right their is Plus sign click on it
 11. Click on New Repository
-12. Put the name of your repository on repository name (It always has to match)
+12. Put the name of your repository on repository name (**It always has to match**)
 13. Then Create your Repository
 
 
