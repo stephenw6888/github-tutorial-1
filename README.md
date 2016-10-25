@@ -54,7 +54,12 @@ by Rene Campos
 2. Type mkdir first-repo(You can call your repo whatever you want but it would be good to write first-repo)
 3. Type cd first-repo
 4. Type git init
-5. 
+5. Type touch README.md
+6. Open the README you just made
+7. Save it and add .
+8. Make a commit -m "Example" (Make sure to type a commit message that makes sense to what your doing)
+9. 
+9. 
 
 ---
 ## Workflow & Commands
