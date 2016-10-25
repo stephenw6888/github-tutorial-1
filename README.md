@@ -58,8 +58,11 @@ by Rene Campos
 6. Open the README you just made
 7. Save it and add .
 8. Make a commit -m "Example" (Make sure to type a commit message that makes sense to what your doing)
-9. 
-9. 
+9. Go to github.com
+10. On the top right their is Plus sign click on it
+11. Click on New Repository
+12. Put the name of your repository on repository name (It always has to match)
+13. Then Create your Repository
 
 ---
 ## Workflow & Commands
