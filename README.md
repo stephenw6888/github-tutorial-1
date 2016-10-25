@@ -67,8 +67,8 @@ by Rene Campos
 
 ---
 ## Workflow & Commands
-1) Git Status
+1. Git Status
 * It checks the Status of your Repository
 * You will find it very helpful when your typing in workspace
-2)Git Add
-* 
+---
+2. Git add
