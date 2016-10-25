@@ -36,10 +36,12 @@ by Rene Campos
 4. On the left side bar(Personal Settings) Go down the list and you will see SSH and GPG keys
 5. Click on it
 6. Then Click on New SSH
-7. Go to [c9.io(c9.io)
+7. Go to [c9.io](c9.io)
 8. 
-## Repository Setup
+  
 
+---
+## Repository Setup
 
 
 ---
