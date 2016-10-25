@@ -70,5 +70,5 @@ by Rene Campos
 1. Git Status
 * It checks the Status of your Repository
 * You will find it very helpful when your typing in workspace
----
+
 2. Git add
