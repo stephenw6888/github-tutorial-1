@@ -67,16 +67,16 @@ by Rene Campos
 
 ---
 ## Workflow & Commands
-1. Git Status
+1. _Git Status_
 2. It checks the Status of your Repository
 3. You will find it very helpful when your typing in workspace
-4. Git add 
+4. _Git add_ 
 5. When you git add your adding it to the staging area
 6. You need this so youc can be able to see it in your README.md
-7.Git commit 
+7. _Git commit_ 
 8.It helps you by you remembering what you were working on by puting a message in its place
 9. You can find it really helpful
-10. Git push
+10. _Git push_
 11. It pushes it up to your read me file
 12. So people can see your amazing work
 
