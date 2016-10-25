@@ -4,9 +4,25 @@ by Rene Campos
 
 ---
 ## Git vs. GitHub
+
+_Git and Github_ are the **essential coding system** throughout Github. But as the name suggest, they are both differ among each other. 
+
+_Git_ is a independent control made to have version control. (Keeping Snapshots) (_DOESN'T NEED GITHUB_) 
+
 * Git keeps Snapshots of your work while Github shows your changings
+* Runs throughout **command line**
+* Basic workflow include (Initial Setup, Creating Repository, Edit files, Add files, Commiting files)
+
+_Github_ is a dependent control requiring _Git_. (_REQUIRE GITHUB_)
+
 * Github also stores your work into the cloud Git works on the command line
-* Github can help you easily collaborate on files Github requires git but git doesn't require git 
+* Github can help you easily collaborate on files Github requires git but git doesn't require git
+* Runs on the **command line**
+* With basic work flow
+
+1. Intial Repository created by yourself
+or
+2. Fork and Clone someone else's repository
 
 
 ---
