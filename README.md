@@ -27,11 +27,13 @@ or
 
 ---
 ## Initial Setup
-* Use any web broswer you are comtorable with using 
-* Go to [github.com](github.com)
-* Sign up by puttimg a username you can easily remember 
-* Make your password private because you would'nt want anyone to mess with your work (it could happen!?)
-* Use a school or work email so you can verify your github account 
+1. Use any web broswer you are comfortable with using 
+2. Go to [github.com](github.com)
+3. Sign up by puttimg a username you can easily remember or recommend using your HSTAT email name, (stevenR3657)
+4. Make your password private because you wouldn't want anyone to mess with your work (it could happen!?)
+5. Use a school or work email so you can verify your github account 
+6. Ignore the red bubble after finishing these steps
+7. Click the finish sign up and your done
 
 
 ---
