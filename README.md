@@ -74,7 +74,7 @@ by Rene Campos
 5. When you git add your adding it to the staging area
 6. You need this so youc can be able to see it in your README.md
 7. _Git commit_ 
-8.It helps you by you remembering what you were working on by puting a message in its place
+8. It helps you by you remembering what you were working on by puting a message in its place
 9. You can find it really helpful
 10. _Git push_
 11. It pushes it up to your read me file
