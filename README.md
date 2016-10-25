@@ -63,6 +63,12 @@ by Rene Campos
 11. Click on New Repository
 12. Put the name of your repository on repository name (It always has to match)
 13. Then Create your Repository
+14. 
 
 ---
 ## Workflow & Commands
+1. Git Status
+* It checks the Status of your Repository
+* You will find it very helpful when your typing in workspace
+2. Git Add
+* 
